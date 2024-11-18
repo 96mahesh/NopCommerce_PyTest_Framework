@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_admin_login.py:33 ************** test_valid_admin_login **************
+[32mINFO    [0m root:test_admin_login.py:34 ************** login valid credentials **************

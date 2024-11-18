@@ -1,0 +1,91 @@
+06-26-2024 15:29:19:INFO:************** test_title_verificaion **************
+06-26-2024 15:29:19:INFO:************** verification of login admin page title verification **************
+06-26-2024 15:29:23:INFO:************** Test case pass **************
+06-26-2024 15:29:24:INFO:************** test_valid_admin_login **************
+06-26-2024 15:29:24:INFO:************** login valid credentials **************
+06-26-2024 15:29:34:INFO:************** test_invalid_admin_login **************
+06-26-2024 15:29:34:INFO:************** login invalid credentials **************
+06-26-2024 15:34:22:INFO:************** test_title_verificaion **************
+06-26-2024 15:34:22:INFO:************** verification of login admin page title verification **************
+06-26-2024 15:34:25:INFO:************** Test case pass **************
+06-26-2024 15:34:27:INFO:************** test_valid_admin_login **************
+06-26-2024 15:34:27:INFO:************** login valid credentials **************
+06-26-2024 15:34:38:INFO:************** test_invalid_admin_login **************
+06-26-2024 15:34:38:INFO:************** login invalid credentials **************
+06-27-2024 10:59:55:INFO:************** test_title_verificaion **************
+06-27-2024 10:59:55:INFO:************** verification of login admin page title verification **************
+06-27-2024 10:59:59:INFO:************** Test case pass **************
+06-27-2024 11:00:03:INFO:************** test_valid_admin_login **************
+06-27-2024 11:00:03:INFO:************** login valid credentials **************
+06-27-2024 11:00:17:INFO:************** test_invalid_admin_login **************
+06-27-2024 11:00:17:INFO:************** login invalid credentials **************
+2024-06-27 11:06:46:INFO:************** test_title_verificaion **************
+2024-06-27 11:06:46:INFO:************** verification of login admin page title verification **************
+2024-06-27 11:06:49:INFO:************** Test case pass **************
+2024-06-27 11:06:50:INFO:************** test_valid_admin_login **************
+2024-06-27 11:06:50:INFO:************** login valid credentials **************
+2024-06-27 11:06:59:INFO:************** test_invalid_admin_login **************
+2024-06-27 11:06:59:INFO:************** login invalid credentials **************
+2024-06-27 12:45:24:INFO:************** test_title_verificaion **************
+2024-06-27 12:45:24:INFO:************** verification of login admin page title verification **************
+2024-06-27 12:45:27:INFO:************** Test case pass **************
+2024-06-27 12:45:29:INFO:************** test_valid_admin_login **************
+2024-06-27 12:45:29:INFO:************** login valid credentials **************
+2024-06-27 12:45:41:INFO:************** test_invalid_admin_login **************
+2024-06-27 12:45:41:INFO:************** login invalid credentials **************
+2024-06-27 12:47:30:INFO:************** test_title_verificaion **************
+2024-06-27 12:47:30:INFO:************** verification of login admin page title verification **************
+2024-06-27 12:47:33:INFO:************** Test case pass **************
+2024-06-27 12:47:40:INFO:************** test_valid_admin_login **************
+2024-06-27 12:47:40:INFO:************** login valid credentials **************
+2024-06-27 12:47:56:INFO:************** test_invalid_admin_login **************
+2024-06-27 12:47:56:INFO:************** login invalid credentials **************
+2024-06-27 12:49:10:INFO:************** test_title_verificaion **************
+2024-06-27 12:49:10:INFO:************** verification of login admin page title verification **************
+2024-06-27 12:49:13:INFO:************** Test case pass **************
+2024-06-27 12:49:22:INFO:************** test_valid_admin_login **************
+2024-06-27 12:49:22:INFO:************** login valid credentials **************
+2024-06-27 12:49:35:INFO:************** test_invalid_admin_login **************
+2024-06-27 12:49:35:INFO:************** login invalid credentials **************
+2024-06-27 13:04:02:INFO:************** test_valid_admin_login **************
+2024-06-27 13:04:02:INFO:************** login valid credentials **************
+2024-06-27 13:04:03:INFO:************** test_invalid_admin_login **************
+2024-06-27 13:04:03:INFO:************** login invalid credentials **************
+2024-06-27 13:04:04:INFO:************** test_title_verificaion **************
+2024-06-27 13:04:04:INFO:************** verification of login admin page title verification **************
+2024-06-27 13:04:07:INFO:************** Test case pass **************
+2024-06-27 14:48:30:INFO:************** test_title_verificaion **************
+2024-06-27 14:48:30:INFO:************** verification of login admin page title verification **************
+2024-06-27 14:48:34:INFO:************** Test case pass **************
+2024-06-27 14:48:35:INFO:************** test_valid_admin_login **************
+2024-06-27 14:48:35:INFO:************** login valid credentials **************
+2024-06-27 14:48:47:INFO:************** test_invalid_admin_login **************
+2024-06-27 14:48:47:INFO:************** login invalid credentials **************
+2024-06-27 15:05:22:INFO:************** test_title_verificaion **************
+2024-06-27 15:05:22:INFO:************** verification of login admin page title verification **************
+2024-06-27 15:05:25:INFO:************** Test case pass **************
+2024-06-27 15:05:27:INFO:************** test_valid_admin_login **************
+2024-06-27 15:05:27:INFO:************** login valid credentials **************
+2024-06-27 15:05:37:INFO:************** test_invalid_admin_login **************
+2024-06-27 15:05:37:INFO:************** login invalid credentials **************
+2024-06-27 15:30:07:INFO:************** test_title_verificaion **************
+2024-06-27 15:30:07:INFO:************** verification of login admin page title verification **************
+2024-06-27 15:30:11:INFO:************** Test case pass **************
+2024-06-27 15:30:12:INFO:************** test_valid_admin_login **************
+2024-06-27 15:30:12:INFO:************** login valid credentials **************
+2024-06-27 15:30:22:INFO:************** test_invalid_admin_login **************
+2024-06-27 15:30:22:INFO:************** login invalid credentials **************
+2024-06-27 16:31:11:INFO:************** test_title_verificaion **************
+2024-06-27 16:31:11:INFO:************** verification of login admin page title verification **************
+2024-06-27 16:31:15:INFO:************** Test case pass **************
+2024-06-27 16:31:18:INFO:************** test_valid_admin_login **************
+2024-06-27 16:31:18:INFO:************** login valid credentials **************
+2024-06-27 16:31:28:INFO:************** test_invalid_admin_login **************
+2024-06-27 16:31:28:INFO:************** login invalid credentials **************
+2024-08-05 18:27:38:INFO:************** test_title_verificaion **************
+2024-08-05 18:27:38:INFO:************** verification of login admin page title verification **************
+2024-08-05 18:27:40:INFO:************** Test case pass **************
+2024-08-05 18:27:42:INFO:************** test_valid_admin_login **************
+2024-08-05 18:27:42:INFO:************** login valid credentials **************
+2024-08-05 18:27:49:INFO:************** test_invalid_admin_login **************
+2024-08-05 18:27:49:INFO:************** login invalid credentials **************

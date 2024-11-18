@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_admon_login.py:15 ************** test_title_verificaion **************
+[32mINFO    [0m root:test_admon_login.py:16 ************** verification of login admin page title verification **************
+[32mINFO    [0m root:test_admon_login.py:24 ************** Test case pass **************

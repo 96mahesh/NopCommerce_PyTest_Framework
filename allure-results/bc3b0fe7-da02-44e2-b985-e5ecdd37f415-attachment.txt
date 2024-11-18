@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_admon_login.py:44 ************** test_invalid_admin_login **************
+[32mINFO    [0m root:test_admon_login.py:45 ************** login invalid credentials **************
